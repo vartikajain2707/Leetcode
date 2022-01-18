@@ -26,4 +26,4 @@ class Solution:
                 curr=curr.next
 
             prev.next=curr.next
-            return A
+            return A 
